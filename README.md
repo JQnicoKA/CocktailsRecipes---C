@@ -14,6 +14,3 @@ Algorithmes.c		: Traduction des fonctions principales de projet.c en algorithme
 
 Merci d'avoir utilisé notre programme
 LECAS Nicolas && ALBUZLU Gökdeniz
-
-CE QUE J'AI FAIT DANS CE PROJET:
-Construction de la "base de données" en liste chaînée, grosse fonction de recherche dans la liste chaînée, puis obtention du résultat
