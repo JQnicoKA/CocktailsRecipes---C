@@ -4,15 +4,16 @@ Welcome to our application that will help you make cocktails, with what you have
 
 This is how the different files of our "Cocktail expert system" program are organized :
 
-mainProjet.c: main of our project
+- mainProjet.c, project.c, project.h : Files of the functions
 
-project.c: Functions of our project
+- Creation_Base_de_C.h : Filling the knowledge base
 
-project.h: Header of our project
+- Algorithmes.c : Translation of the main functions of project.c into an algorithm
 
-Creation_Base_de_C.h: Filling the knowledge base
+You can launch the exe.exe executable to launch the program
 
-Algorithmes.c: Translation of the main functions of project.c into an algorithm
+![image](https://user-images.githubusercontent.com/90686560/166104726-22df8bd4-6321-47d8-82e5-51db6ed5ac96.png)
+    You can simply watch the presentation of the game by opening Presentation_SystemCocktails.mp4
 
 Enjoy !
 
@@ -24,15 +25,13 @@ Bienvenue dans notre application qui va vous aider à réaliser des cocktails, a
 
 Voici comment sont organisés les différents fichiers de notre programme "Système expert de cocktails" :
 
-mainProjet.c 		: main de notre projet
+- mainProjet.c, projet.c, projet.h : Fichiers avec les fonctions
 
-projet.c		: Fonctions de notre projet
+- Creation_Base_de_C.h	: Remplissage de la base de connaissances
 
-projet.h		: Header de notre projet
+- Algorithmes.c		: Traduction des fonctions principales de projet.c en algorithme
 
-Creation_Base_de_C.h	: Remplissage de la base de connaissances
-
-Algorithmes.c		: Traduction des fonctions principales de projet.c en algorithme
+Vous pouvez lancer le programme en lançant l'exécutable exe.exe
 
 Enjoy !
 
